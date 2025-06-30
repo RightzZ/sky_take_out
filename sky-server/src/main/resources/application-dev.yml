@@ -6,3 +6,15 @@ sky:
     database: sky_take_out
     username: root
     password: root
+
+#  aliyun:
+#    oss:
+#      endpoint: "https://oss-ap-northeast-1.aliyuncs.com"
+#      bucketName: "javaai-rightzz"
+#      region: "ap-northeast-1"
+
+  alioss:
+    endpoint: "oss-ap-northeast-1.aliyuncs.com"
+    bucket-name: "javaai-rightzz"
+    access-key-id: ${OSS_ACCESS_KEY_ID}
+    access-key-secret: ${OSS_ACCESS_KEY_SECRET}
