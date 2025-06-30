@@ -17,3 +17,11 @@ Rest
 ## 2025/06/25
 
 Continue completing methods about annotation, AOP and reflection
+
+## 2025/06/26 ~ 2025/06/29
+
+Deal with works in lab
+
+## 2025/06/30
+
+Complete operations and functions about Dishes and Set Menus
