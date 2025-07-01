@@ -25,3 +25,7 @@ Deal with works in lab
 ## 2025/06/30
 
 Complete operations and functions about Dishes and Set Menus
+
+## 2025/07/01
+
+Learn base knowledge of Redis
