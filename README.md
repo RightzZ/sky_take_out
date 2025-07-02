@@ -29,3 +29,7 @@ Complete operations and functions about Dishes and Set Menus
 ## 2025/07/01
 
 Learn base knowledge of Redis
+
+## 2025/07/02
+
+Set up environment for WeChat Apps and complete operations and functions about interacting with WeChat Apps
