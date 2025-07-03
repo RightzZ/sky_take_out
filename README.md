@@ -33,3 +33,8 @@ Learn base knowledge of Redis
 ## 2025/07/02
 
 Set up environment for WeChat Apps and complete operations and functions about interacting with WeChat Apps
+
+## 2025/07/03
+
+Learn about Spring Cache based on Redis
+Complete operations and functions about Shopping cart
