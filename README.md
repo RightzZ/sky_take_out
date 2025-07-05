@@ -43,3 +43,11 @@ Complete operations and functions about Shopping cart
 ## 2025/07/04
 
 Rest
+
+## 2025/07/05
+
+Complete operations about place orders
+
+Know about interfaces and codes of WeChat Pay
+
+Import codes about orders and adjust them
