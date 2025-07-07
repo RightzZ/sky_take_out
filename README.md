@@ -24,7 +24,7 @@ Deal with works in lab
 
 ## 2025/06/30
 
-Complete operations and functions about Dishes and Set Menus
+Complete operations about Dishes and Set Menus
 
 ## 2025/07/01
 
@@ -38,7 +38,7 @@ Set up environment for WeChat Apps and complete operations and functions about i
 
 Learn about Spring Cache based on Redis
 
-Complete operations and functions about Shopping cart
+Complete operations about Shopping cart
 
 ## 2025/07/04
 
@@ -58,3 +58,6 @@ Deal with personal matters
 
 ## 2025/07/07
 
+Learn about Spring Task and WebSocket
+
+Complete operations about order's status management based on Spring Task and real time information based on WebSocket
