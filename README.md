@@ -61,3 +61,15 @@ Deal with personal matters
 Learn about Spring Task and WebSocket
 
 Complete operations about order's status management based on Spring Task and real time information based on WebSocket
+
+## 2025/07/08
+
+Rest
+
+## 2025/07/09
+
+Deal with works in lab
+
+## 2025/07/10
+
+Learn about Apache ECharts, build up backend data analysis operations for front-end's Apache ECharts
