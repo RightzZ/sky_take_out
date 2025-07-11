@@ -73,3 +73,9 @@ Deal with works in lab
 ## 2025/07/10
 
 Learn about Apache ECharts, build up backend data analysis operations for front-end's Apache ECharts
+
+## 2025/07/11
+
+Learn about Apache POI, complete operations about exporting data to excel
+
+## All finished
