@@ -1,6 +1,6 @@
 # Sky-Take-Out
 
-A project to practice java backend development
+A project to practice java backend development based on Spring Boot
 
 ## 2025/06/22
 
